@@ -1,0 +1,9 @@
+{
+  "name": "bshdo-co",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "bunx serve -l 3000 -c serve.json",
+    "start": "bunx serve -l 3000 -c serve.json"
+  }
+}
